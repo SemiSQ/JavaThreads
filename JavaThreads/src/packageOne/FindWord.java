@@ -6,7 +6,7 @@ import java.io.*;
 public class FindWord {
 	public static void main(String[] args)
 	{
-		int threadCount;
+		int threadCount=0;
 		try {
 			System.out.println("Please enter how many threads you want \n" +
 					"to work on this problem.");
